@@ -1,1 +1,1 @@
-# courses-experiments
+# experiments
